@@ -1,6 +1,6 @@
-num = 20 # even number, if msg is long user larger number
+num = int(input("Enter even number: "))
 n = num//2
-msg = "random msg"
+msg = input("Enter your message: ")
 l = len(msg)
 sym = "*"
 for i in range(n):
