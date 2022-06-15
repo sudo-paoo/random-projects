@@ -7,7 +7,8 @@ Random stuffs are uploaded here :P
 - [x]  Heart Pattern v2 (w/timer) 
 - [x]  Addition Game
 - [x]  Multiplication Game
-- [x]  Echo (Batch File)
+- [x]  Echo
+- [x]  Pastebin Bot
 - [ ]  Anything that comes to my mind (⌐▨_▨)
 
 ### Batch Files
