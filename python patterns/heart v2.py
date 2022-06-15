@@ -3,7 +3,7 @@ num = int(input("Enter even number: "))
 n = num//2
 msg = input("Enter your message: ")
 l = len(msg)
-sym = "*"
+sym = input("Enter your symbol: ")
 for i in range(n):
     time.sleep(0.3)
     print(" "*(n-i-1) + f"{sym} "*(i+1), end="")
