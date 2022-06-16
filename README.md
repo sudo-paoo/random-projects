@@ -1,6 +1,6 @@
-# Random Stuffs
+# Random Projects
 
-Random stuffs are uploaded here :P
+Random projects are uploaded here :P
 
 ## Projects
 **This repository contains:** 
